@@ -1,0 +1,14 @@
+names:
+- Hoverfly
+- Other Insect
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: hoverfly-detection
+  url: https://universe.roboflow.com/leibniz-universitt-hannover-bachelorarbeit/hoverfly-detection/dataset/2
+  version: 2
+  workspace: leibniz-universitt-hannover-bachelorarbeit
+path: ./Hoverfly-Detection-2
+test: test/images
+train: train/images
+val: valid/images
